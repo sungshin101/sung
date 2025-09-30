@@ -1,10 +1,10 @@
-## Hello!
+## Hellokx!
 
 **About me:**
-- MSc Statistics student at Imeprial College London.
+- MSc Statistics student at Imperial College London.
 - Keen interest in Machine Learning & Data Science.
 - Former Data Management intern at Bloomberg LP.
-- Always happy to connect at [pmg25@ic.ac.uk]{pmg25@ic.ac.uk}.
+- Always happy to connect at link[pmg25@ic.ac.uk]{pmg25@ic.ac.uk}.
 
 
 <!--
